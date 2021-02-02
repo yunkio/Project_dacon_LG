@@ -1,0 +1,14 @@
+
+data/sample_submission.csv
+
+data/test_err_data.csv
+
+data/test_quality_data.csv
+
+data/train_err_data.csv
+
+data/train_problem_data.csv
+
+data/train_quality_data.csv
+
+custom_data/
